@@ -11,8 +11,11 @@
 ## The Race to Zero
 - 
 - [Skyline Insights API](https://docs.vmware.com/en/VMware-Skyline/1.0/skyline-api-guide/GUID-BF9B186D-DFD7-4D8A-87D6-1D155A7CA88A.html)
+    - [Preventative Maintenance: Getting Proactive with Skyline](https://blogs.vmware.com/kb/2022/12/preventative-maintenance-with-skyline.html)
     - [Sonny Nguyen - VM Support Insider - Skyline Technical Market Enginner - All Authered Post](https://blogs.vmware.com/kb/author/nguyensovmware-com) - some are listed below.
     - [Skyline Insights API - Getting Started](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-getting-started.html)
+    - [Skyline On-Demand Sessions at VMware Explore US](https://blogs.vmware.com/kb/2022/09/skyline-on-demand-sessions-at-vmware-explore-us-see-what-you-missed.html)
+    - [What’s New in VMware Skyline Advisor Pro: Dashboard Enhancements and Accelerated Email Delivery](https://blogs.vmware.com/kb/2022/08/vmware-skyline-advisor-pro-whats-new-august-2022.html) 
     - [Using PowerCLI](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-using-powercli.html)
     - [Collaborate on Skyline Findings in Slack](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-collaborate-on-skyline-findings-in-slack.html)
     - [Get Affected Objects Example](https://blogs.vmware.com/kb/2022/01/skyline-insights-api-get-affected-objects-example.html)
