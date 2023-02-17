@@ -1,2 +1,4 @@
-# Skyline_WhyNot
- VMware Skyline Resources and Tips and Tricks from VMW TAM
+# VMware Skyline - WhyNot
+ VMware Skyline Resources to get started in creating another "pro" team member and not another tool. 
+
+How do I get started?
