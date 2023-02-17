@@ -10,6 +10,18 @@
 
 ## The Race to Zero
 - 
+- [Skyline Insights API](https://docs.vmware.com/en/VMware-Skyline/1.0/skyline-api-guide/GUID-BF9B186D-DFD7-4D8A-87D6-1D155A7CA88A.html)
+    - [Sonny Nguyen - VM Support Insider - Skyline Technical Market Enginner - All Authered Post](https://blogs.vmware.com/kb/author/nguyensovmware-com) - some are listed below.
+    - [Skyline Insights API - Getting Started](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-getting-started.html)
+    - [Using PowerCLI](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-using-powercli.html)
+    - [Collaborate on Skyline Findings in Slack](https://blogs.vmware.com/kb/2021/12/skyline-insights-api-collaborate-on-skyline-findings-in-slack.html)
+    - [Get Affected Objects Example](https://blogs.vmware.com/kb/2022/01/skyline-insights-api-get-affected-objects-example.html)
+    - [Using Skyline Automation Toolkit to Remediate Your Skyline Findings](https://blogs.vmware.com/kb/2022/03/using-skyline-automation-toolkit-to-remediate-your-skyline-findings.html)
+    - [Creating a Ticket in ServiceNow](https://blogs.vmware.com/kb/2022/02/skyline-insights-api-creating-a-ticket-in-servicenow.html)
+    - [How to get Results using Python](https://blogs.vmware.com/kb/2022/09/skyline-insights-api-how-get-results-using-python.html)
+    - [How to Send Results to Microsoft Teams](https://blogs.vmware.com/kb/2022/10/skyline-insights-api-how-to-send-results-to-microsoft-teams.html)
+    - [Send Results to Email](https://blogs.vmware.com/kb/2023/01/skyline-insights-api-send-results-to-email.html)
+
 
 ## More Information
 - RTFM - Read The FANTISTIC Manual - [VMware Docs - VMware Skyline](https://docs.vmware.com/en/VMware-Skyline/index.html)
