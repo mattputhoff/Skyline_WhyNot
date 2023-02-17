@@ -6,7 +6,10 @@
 - [VMware Docs - Getting Started with Skyline](https://docs.vmware.com/en/VMware-Skyline-Advisor/services/user-guide/GUID-9F307102-0B27-494E-9A60-50CE5C0FB51B.html)
 - [Getting Started with VMware Skyline on Cloud Service Video](https://www.youtube.com/watch?v=YTz4NEud1Pg)
     - [Pro Tip: Subscribe to the VMware Skyline YouTube Channel](https://www.youtube.com/channel/UC9UusbAhlAq0nsLy_zGlpCw/featured)   
+- Free Workshop - [Skyline Task Force](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-skyline-taskforce-overview.pdf)
 
+## The Race to Zero
+- 
 
 ## More Information
 - RTFM - Read The FANTISTIC Manual - [VMware Docs - VMware Skyline](https://docs.vmware.com/en/VMware-Skyline/index.html)
