@@ -8,9 +8,8 @@
     - [Pro Tip: Subscribe to the VMware Skyline YouTube Channel](https://www.youtube.com/channel/UC9UusbAhlAq0nsLy_zGlpCw/featured)   
 - Free Workshop - [Skyline Task Force](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-skyline-taskforce-overview.pdf)
 
-## The Race to Zero
-- What's New?
-    - [VMware Skyline Advisor Pro - What's New: February 2023](https://www.youtube.com/watch?v=Uajx2rOqFrw) (YouTube Video)
+## Whats New?
+- [VMware Skyline Advisor Pro - What's New: February 2023](https://www.youtube.com/watch?v=Uajx2rOqFrw) (YouTube Video)
 
 ## The Race to Zero
 - [Skyline Insights API](https://docs.vmware.com/en/VMware-Skyline/1.0/skyline-api-guide/GUID-BF9B186D-DFD7-4D8A-87D6-1D155A7CA88A.html)
