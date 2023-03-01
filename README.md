@@ -9,7 +9,10 @@
 - Free Workshop - [Skyline Task Force](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-skyline-taskforce-overview.pdf)
 
 ## The Race to Zero
-- 
+- What's New?
+    - [VMware Skyline Advisor Pro - What's New: February 2023](https://www.youtube.com/watch?v=Uajx2rOqFrw) (YouTube Video)
+
+## The Race to Zero
 - [Skyline Insights API](https://docs.vmware.com/en/VMware-Skyline/1.0/skyline-api-guide/GUID-BF9B186D-DFD7-4D8A-87D6-1D155A7CA88A.html)
     - [Preventative Maintenance: Getting Proactive with Skyline](https://blogs.vmware.com/kb/2022/12/preventative-maintenance-with-skyline.html)
     - [Sonny Nguyen - VM Support Insider - Skyline Technical Market Enginner - All Authered Post](https://blogs.vmware.com/kb/author/nguyensovmware-com) - some are listed below.
@@ -24,7 +27,6 @@
     - [How to get Results using Python](https://blogs.vmware.com/kb/2022/09/skyline-insights-api-how-get-results-using-python.html)
     - [How to Send Results to Microsoft Teams](https://blogs.vmware.com/kb/2022/10/skyline-insights-api-how-to-send-results-to-microsoft-teams.html)
     - [Send Results to Email](https://blogs.vmware.com/kb/2023/01/skyline-insights-api-send-results-to-email.html)
-
 
 ## More Information
 - RTFM - Read The FANTISTIC Manual - [VMware Docs - VMware Skyline](https://docs.vmware.com/en/VMware-Skyline/index.html)
